@@ -7,3 +7,6 @@ def sub(a, b):
 def mul(a, b):
     return a * b
 
+def first(a, b):
+    return a
+
